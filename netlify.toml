@@ -1,7 +1,0 @@
-[build]
-  base = "react_app"
-  command = "npm run build"
-  publish = "react_app/dist"
-
-[functions]
-  directory = "netlify/functions"
